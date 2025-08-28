@@ -80,7 +80,7 @@ export class ChatbotController {
             errors.push("⚠️ As APIs nativas de IA não estão ativas.");
             errors.push("Ative a seguinte flag em chrome://flags/:");
             errors.push("- Prompt API for Gemini Nano (chrome://flags/#prompt-api-for-gemini-nano)");
-            errors.push("Depois reinicie o Chrome e tente novamente.");
+            errors.push("Depois Reinicie o Chrome e tente novamente.");
         }
 
         return errors

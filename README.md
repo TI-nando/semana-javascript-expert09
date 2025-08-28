@@ -1,13 +1,6 @@
-<div align="center">
-
-[![EW Academy](https://img.shields.io/badge/Semana%20JS%20Expert%2009-Inscreva--se-green)](https://now.ew.academy/semana-js-expert-9?utm_source=githubreadme)
-[![GitHub stars](https://img.shields.io/github/stars/ErickWendel/semana-javascript-expert09?style=social)](https://github.com/ErickWendel/semana-javascript-expert09/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ErickWendel/semana-javascript-expert09?style=social)](https://github.com/ErickWendel/semana-javascript-expert09/fork)
-![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
-![Last Commit](https://img.shields.io/github/last-commit/ErickWendel/semana-javascript-expert09)
 
 
-# Chatbot Inteligente 100% Offline com Prompt API do Chrome
+# 🤖 Chatbot Inteligente 100% Offline com Prompt API do Chrome
 
 Construindo um widget de chatbot embarcado que roda totalmente no navegador, explorando os recursos experimentais de AI locais da Chrome Prompt API.
 

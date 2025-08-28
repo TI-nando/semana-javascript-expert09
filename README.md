@@ -1,10 +1,6 @@
-
-
 # 🤖 Chatbot Inteligente 100% Offline com Prompt API do Chrome
 
 Construindo um widget de chatbot embarcado que roda totalmente no navegador, explorando os recursos experimentais de AI locais da Chrome Prompt API.
-
-⭐ Deixe uma estrela • [Entre para a comunidade](https://discord.gg/2vvUTUb) • [Reporte um problema](../../issues)
 
 </div>
 
@@ -24,19 +20,6 @@ As aulas completas estão disponíveis em:
 
 > Aproveite enquanto o acesso gratuito estiver liberado! Compartilhe o link com quem quer dominar JavaScript moderno.
 
-### Certificado
-
-Caso você conclua todas as aulas e desafios, receberá este certificado de conclusão (bonitão):
-
-![JavaScript](./assets/certificate.png)
-
----
-### Live demo
-
-- Teste a primeira aula: https://erickwendel.github.io/semana-javascript-expert09/aula01-criando-llmstxt
-- Teste a segunda aula: https://erickwendel.github.io/semana-javascript-expert09/aula02-integrando-ai
-
----
 
 ## 📚 Sumário
 
